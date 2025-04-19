@@ -52,14 +52,12 @@
 
 ---
 
----
 
 ### 🚀 DEPLOY INCONNU-XD
 
 <p align="center">
   <a href="https://replit.com/github/inconnuboyxtech/INCONNU-XD">
     <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
----
   </a>
   <a href="https://railway.app/new/template?template=https://github.com/inconnuboyxtech/INCONNU-XD">
     <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
