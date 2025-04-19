@@ -108,28 +108,6 @@
 </p>
 
 ---
-<p align="center">
-  <b><span style="color:#F59E0B">🚀 REPLIT</span></b><br>
-  <a href="https://replit.com/github/Pkdriller/NEXUS-XMD">
-    <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
-  </a>
-</p>
-
----
-<p align="center">
-  <b><span style="color:#EC4899">🚄 RAILWAY</span></b><br>
-  <a href="https://railway.app/new/template?template=https://github.com/inconnuboyxtech/INCONNU-XD">
-    <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
-  </a>
-</p>
----
-<p align="center">
-  <b><span style="color:#22D3EE">⚙️ RENDER</span></b><br>
-  <a href="https://render.com/">
-    <img src="https://img.shields.io/badge/Deploy%20To%20Render-06B6D4?style=for-the-badge&logo=render&logoColor=white" />
-  </a>
-</p>
----
 
 🧠 Workflows File
 
@@ -143,8 +121,6 @@
 - Use it **at your own risk.**
 - Misuse may lead to **account bans.**
 - The **developer is not responsible** for any misuse or bans.
-
----
 
 ---
 
