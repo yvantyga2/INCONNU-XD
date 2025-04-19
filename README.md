@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center">⚡ INCONNU-XD V1⚡</h1>
+<h1 align="center">⚡ 𝐈𝐍𝐂𝐎𝐍𝐍𝐔 𝐗𝐃 𝐕𝟏 ⚡</h1>
 
                 ⚡ THE NEXT GEN WHATSAPP BOT BY INCONNU BOY ⚡
 
