@@ -141,8 +141,11 @@
   <img alt="Thanks to Popkiddevs" src="https://img.shields.io/badge/Thanks_To-Popkiddevs-blueviolet?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://wa.me/554488138425" target="_blank">
-  <img alt="DEV - INCONNU BOY TECH" src="https://img.shields.io/badge/⚡%20HELLO%20INCONNU%20BOY%20TECH%20⚡-+5544%208813-8425-green?style=for-the-badge&logo=whatsapp" />
+
+---
+
+<a href="https://wa.me/554488138425?text=⚡%20HELLO%20INCONNU%20BOY%20TECH%20⚡">
+  <img alt="Contact WhatsApp" src="https://img.shields.io/badge/DEV-⚡INCONNU%20BOY%20TECH⚡-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 
