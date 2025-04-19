@@ -51,7 +51,11 @@
 [![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://inconnu-xd-session-by-inconnu-boy.onrender.com)
 
 ---
+## 📦 Fork This Repository
 
+[![Fork Now](https://img.shields.io/badge/Fork-INCONNU--XD-26A69A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inconnuboyxtech/INCONNU-XD/fork)
+
+---
 
 ### 🚀 DEPLOY INCONNU-XD
 
