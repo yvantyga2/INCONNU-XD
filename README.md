@@ -93,11 +93,6 @@
 
 ---
 
-## 📦 Fork This Repository
-
-[![Fork Now](https://img.shields.io/badge/Fork-INCONNU--XD-26A69A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inconnuboyxtech/INCONNU-XD/fork)
-
----
 ### 📥 DOWNLOAD FILE INCONNU-XD
 
 <p align="center">
