@@ -4,8 +4,8 @@
     "description": "Whiskey Sockets Baileys Whatsapp bot BY INCONNU BOY TECH",
     "logo": "https://files.catbox.moe/230q0c.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://cloud-tech-tces.onrender.com/",
-    "owner-verification": "techobed06@gmail.com",
+    "documentation-link": "https://inconnu-xd-session-by-inconnu-boy.onrender.com",
+    "owner-verification": "xinconnuboydawens@gmail.com",
   
     "env": {
       "SESSION_ID": {
