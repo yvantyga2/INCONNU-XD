@@ -52,12 +52,33 @@
 
 ---
 
-### ☁️ Deploy on Platforms
+---
 
-[![Deploy on Heroku](https://img.shields.io/badge/Deploy-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/inconnuboyxtech/INCONNU-XD/tree/main)  
-[![Deploy on TaikDrove](https://img.shields.io/badge/Deploy-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white)](https://host.talkdrove.com/share-bot/82)  
-[![Deploy on Koyeb](https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/services/deploy?type=git&repository=inconnuboyxtech/INCONNU-XD&ports=3000)
+### 🚀 DEPLOY INCONNU-XD
 
+<p align="center">
+  <a href="https://replit.com/github/inconnuboyxtech/INCONNU-XD">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
+  </a>
+  <a href="https://railway.app/new/template?template=https://github.com/inconnuboyxtech/INCONNU-XD">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
+  </a>
+  <a href="https://render.com/">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Render-06B6D4?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/inconnuboyxtech/INCONNU-XD/tree/main">
+    <img src="https://img.shields.io/badge/Deploy-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white" />
+  </a>
+  <a href="https://host.talkdrove.com/share-bot/82">
+    <img src="https://img.shields.io/badge/Deploy-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  </a>
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=inconnuboyxtech/INCONNU-XD&ports=3000">
+    <img src="https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 📦 Fork This Repository
@@ -77,6 +98,28 @@
   <img src="https://i.imgur.com/LyHic3i.gif" alt="Colorful Shine" />
 </p>
 
+---
+<p align="center">
+  <b><span style="color:#F59E0B">🚀 REPLIT</span></b><br>
+  <a href="https://replit.com/github/Pkdriller/NEXUS-XMD">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <b><span style="color:#EC4899">🚄 RAILWAY</span></b><br>
+  <a href="https://railway.app/new/template?template=https://github.com/Pkdriller/NEXUS-XMD">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
+  </a>
+</p>
+---
+<p align="center">
+  <b><span style="color:#22D3EE">⚙️ RENDER</span></b><br>
+  <a href="https://render.com/">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Render-06B6D4?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+</p>
 ---
 ## 🧠 Developers' Workflow
 
