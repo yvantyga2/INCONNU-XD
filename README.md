@@ -137,6 +137,11 @@
 </a>  
 <p><b>For helping in bot plugin files.</b></p>
 
+<a href="https://github.com/popkiddevs">
+  <img alt="Thanks to Popkiddevs" src="https://img.shields.io/badge/Thanks_To-Popkiddevs-blueviolet?style=for-the-badge&logo=github" />
+</a>
+
+
 ---
 
 ### ⚡ Final Note
