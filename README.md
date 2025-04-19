@@ -79,6 +79,15 @@
     <img src="https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" />
   </a>
 </p>
+
+---
+<p align="center">
+  <b><span style="color:#F59E0B">🚀 REPLIT</span></b><br>
+  <a href="https://replit.com/github/Pkdriller/NEXUS-XMD">
+    <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 📦 Fork This Repository
