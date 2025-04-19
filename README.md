@@ -108,11 +108,7 @@
 ---
 
 ### ⚡ CHANNEL YOUTUBE 
-<a href="https://www.youtube.com/@Butterfly_16_familly" target="_blank">
-  <button style="background-color: #007BFF; color: white; padding: 12px 24px; border: none; border-radius: 8px; cursor: pointer;">
-    YouTube
-  </button>
-</a>
+[![YouTube](https://img.shields.io/badge/YouTube-007BFF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Butterfly_16_familly)
 
 ----
 🧠 Workflows File
