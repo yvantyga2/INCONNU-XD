@@ -227,7 +227,7 @@ const menu = async (m, Matrix) => {
           menuResponse = `
 ╭━━〔 *Group Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• linkgroup
+┃◈┃• linkgc
 ┃◈┃• setppgc
 ┃◈┃• setname
 ┃◈┃• setdesc
@@ -236,12 +236,15 @@ const menu = async (m, Matrix) => {
 ┃◈┃• welcome
 ┃◈┃• add
 ┃◈┃• kick
+┃◈┃• kickall
+┃◈┃• promote
+┃◈┃• promoteall
+┃◈┃• demote
+┃◈┃• demoteall
 ┃◈┃• hidetag
 ┃◈┃• tagall
 ┃◈┃• antilink
 ┃◈┃• antitoxic
-┃◈┃• promote
-┃◈┃• demote
 ┃◈┃• getbio
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷`;
