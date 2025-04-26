@@ -4,6 +4,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FFFFFF&center=true&width=1000&lines=BY+INCONNU+BOY" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 <h1 align="center">⚡ 𝐈𝐍𝐂𝐎𝐍𝐍𝐔 𝐗𝐃 𝐕𝟏 ⚡</h1>
