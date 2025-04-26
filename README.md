@@ -103,20 +103,35 @@ Multi Deploy Options (Render, Heroku, Koyeb, etc.)
 ✨ CONFIGURATION (Modify .env File)
 
 SESSION_ID="INCONNU~XD~"
+
 AUTO_READ_STATUS=true
+
 STATUS_READ_MSG="*Status Seen By INCONNU-XD ⚡*"
+
 AUTO_STATUS_REPLY=false
+
 AUTO_REJECT_CALLS=false
+
 MODE="public"
+
 WELCOME=false
+
 AUTO_READ_MESSAGES=false
+
 AUTO_TYPING=false
+
 OWNER_NAME="INCONNU BOY"
+
 OWNER_NUMBER="554488138425"
+
 AUTO_RECORDING=false
+
 ALWAYS_ONLINE=false
+
 AUTO_BLOCK=true
+
 AUTO_REACT=false
+
 PREFIX="."
 
 
