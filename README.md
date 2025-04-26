@@ -52,7 +52,7 @@
 
 Deploy Easily INCONNU-XD 
 
-— Get Pairing Code ( SESSION ID )
+### Get Pairing Code ( SESSION ID )
 
 ---
 
