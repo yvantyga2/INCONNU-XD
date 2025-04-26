@@ -159,5 +159,29 @@ If you face any issues, report them on GitHub or in the WhatsApp community.
 **Happy coding!** ⚡
 
 ---
+---
+
+## 🛠️ Configuration
+
+Below is the configuration file you can use:
+
+```bash
+SESSION_ID="INCONNU~XD~"
+AUTO_READ_STATUS=true
+STATUS_READ_MSG="*Status Seen By INCONNU-XD ⚡*"
+AUTO_STATUS_REPLY=false
+AUTO_REJECT_CALLS=false
+MODE="public"
+WELCOME=false
+AUTO_READ_MESSAGES=false
+AUTO_TYPING=false
+OWNER_NAME="INCONNU BOY"
+OWNER_NUMBER="554488138425"
+AUTO_RECORDING=false
+ALWAYS_ONLINE=false
+AUTO_BLOCK=true
+AUTO_REACT=false
+PREFIX="."
+
 
 <p align="center"><img alt="Made By INCONNU BOY" src="https://img.shields.io/badge/Made%20by-INCONNU%20BOY-black?style=for-the-badge&logo=github" /></p>
