@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=200&lines=INCONNU-XD;BY+INCONNU+BOY" alt="Typing SVG" />
@@ -53,6 +51,7 @@
 [![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://inconnu-md-session-by-inconnu-boy-create.onrender.com)
 
 ---
+
 ## 📦 Fork This Repository
 
 [![Fork Now](https://img.shields.io/badge/Fork-INCONNU--XD-26A69A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inconnuboyxtech/INCONNU-XD/fork)
@@ -150,15 +149,6 @@
   <img alt="Contact WhatsApp" src="https://img.shields.io/badge/DEV-⚡INCONNU%20BOY%20TECH⚡-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-
----
-
-### ⚡ Final Note
-
-If you face any issues, report them on GitHub or in the WhatsApp community.  
-**Happy coding!** ⚡
-
----
 ---
 
 ## 🛠️ Configuration
@@ -182,6 +172,3 @@ ALWAYS_ONLINE=false
 AUTO_BLOCK=true
 AUTO_REACT=false
 PREFIX="."
-
-
-<p align="center"><img alt="Made By INCONNU BOY" src="https://img.shields.io/badge/Made%20by-INCONNU%20BOY-black?style=for-the-badge&logo=github" /></p>
