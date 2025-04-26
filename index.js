@@ -106,40 +106,41 @@ async function start() {
             }
         });
 
-Matrix.ev.on('connection.update', (update) => {
-    const { connection, lastDisconnect } = update;
-    if (connection === 'close') {
-        if (lastDisconnect.error?.output?.statusCode !== DisconnectReason.loggedOut) {
-            start();
-        }
-    } else if (connection === 'open') {
-        if (initialConnection) {
-            console.log(chalk.green("Connected Successfully INCONNU XD 🤍"));
-            Matrix.sendMessage(Matrix.user.id, { 
-                image: { url: "https://files.catbox.moe/230q0c.jpg" }, 
-                caption: `*Hello there User! 👋🏻* 
+        Matrix.ev.on('connection.update', (update) => {
+            const { connection, lastDisconnect } = update;
+            if (connection === 'close') {
+                if (lastDisconnect.error?.output?.statusCode !== DisconnectReason.loggedOut) {
+                    start();
+                }
+            } else if (connection === 'open') {
+                if (initialConnection) {
+                    console.log(chalk.green("Connected Successfully INCONNU XD 🤍"));
+                    Matrix.sendMessage(Matrix.user.id, { 
+                        image: { url: "https://files.catbox.moe/230q0c.jpg" }, 
+                        caption: `╓─────────────────╖
+│WELCOME TO INCONNU-XD
+╙─────────────────╜
+*⚡ Hello there User! 👋🏻*
 
-> Simple, Straightforward, But Loaded With Features 🎊. Meet INCONNU XD WhatsApp Bot.
+════════════════════
+⚡ CHANNEL : https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R
 
-*Thanks for using INCONNU XD ⚡* 
+═══════════════════
+*⚡ Your Prefix:* = *${prefix}*
+═══════════════════
 
-> Join WhatsApp Channel: ⤵️  
-https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R
+⌛ REPO : https://github.com/inconnuboyxtech/INCONNU-XD
 
-- *YOUR PREFIX:* = ${prefix}
+╚══════════════════╝
+       ©INCONNU BOY TECH`
+                    });
+                    initialConnection = false;
+                } else {
+                    console.log(chalk.blue("♻️ Connection reestablished after restart."));
+                }
+            }
+        });
 
-Don't forget to give a star to the repo ⬇️  
-https://github.com/inconnuboyxtech/INCONNU-XD
-
-> © REGARDS INCONNU BOY TECH`
-            });
-            initialConnection = false;
-        } else {
-            console.log(chalk.blue("♻️ Connection reestablished after restart."));
-        }
-    }
-});
-        
         Matrix.ev.on('creds.update', saveCreds);
 
         Matrix.ev.on("messages.upsert", async chatUpdate => await Handler(chatUpdate, Matrix, logger));
@@ -169,24 +170,24 @@ https://github.com/inconnuboyxtech/INCONNU-XD
         });
         
         Matrix.ev.on('messages.upsert', async (chatUpdate) => {
-    try {
-        const mek = chatUpdate.messages[0];
-        const fromJid = mek.key.participant || mek.key.remoteJid;
-        if (!mek || !mek.message) return;
-        if (mek.key.fromMe) return;
-        if (mek.message?.protocolMessage || mek.message?.ephemeralMessage || mek.message?.reactionMessage) return; 
-        if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_STATUS_SEEN) {
-            await Matrix.readMessages([mek.key]);
-            
-            if (config.AUTO_STATUS_REPLY) {
-                const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By INCONNU-XD';
-                await Matrix.sendMessage(fromJid, { text: customMessage }, { quoted: mek });
+            try {
+                const mek = chatUpdate.messages[0];
+                const fromJid = mek.key.participant || mek.key.remoteJid;
+                if (!mek || !mek.message) return;
+                if (mek.key.fromMe) return;
+                if (mek.message?.protocolMessage || mek.message?.ephemeralMessage || mek.message?.reactionMessage) return; 
+                if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_STATUS_SEEN) {
+                    await Matrix.readMessages([mek.key]);
+                    
+                    if (config.AUTO_STATUS_REPLY) {
+                        const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By INCONNU-XD';
+                        await Matrix.sendMessage(fromJid, { text: customMessage }, { quoted: mek });
+                    }
+                }
+            } catch (err) {
+                console.error('Error handling messages.upsert event:', err);
             }
-        }
-    } catch (err) {
-        console.error('Error handling messages.upsert event:', err);
-    }
-});
+        });
 
     } catch (error) {
         console.error('Critical Error:', error);
@@ -220,4 +221,3 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
-
