@@ -37,21 +37,26 @@
  Features
 
 - QR Code Generator for WhatsApp Pairing
+ 
 - Session Sharing System
+ 
 - Fully Open Source
+ 
 - Auto QR to DM
+ 
 - Session ID Generator (INCONNU-SESSION-ID)
+ 
 - Multi Deploy Options (Render, Heroku, Koyeb, etc.)
 
 ---
 
 Deploy Easily INCONNU-XD 
 
-”— Get Pairing Code ( SESSION ID ðŸ‘‡)
+— Get Pairing Code ( SESSION ID )
 
 ---
 
-“¦ Fork This Repository
+ Fork This Repository
 
 ---
 
@@ -120,7 +125,7 @@ PREFIX="."
 
 ---
 
-“¼ CHANNEL YOUTUBE
+¼ CHANNEL YOUTUBE
 
 <p align="center">
   <a href="https://youtube.com/@butterfly_16_familly">
@@ -148,7 +153,7 @@ PREFIX="."
 
 ---
 
- Disclaimer
+Disclaimer
 
 This project is not affiliated with WhatsApp Inc.  
 Use it at your own risk.  
@@ -157,7 +162,7 @@ The developer is not responsible for any misuse or bans.
 
 ---
 
-† Credits & Contributors
+ Credits & Contributors
 
 > <a href="https://github.com/inconnuboyxtech">
   <img alt="INCONNU BOY - OWNER" src="https://img.shields.io/badge/OWNER-âš¡INCONNU%20BOYâš¡-FF0000?style=for-the-badge&logo=github" />
@@ -184,7 +189,7 @@ The developer is not responsible for any misuse or bans.
  Final Note
 
 If you face any issues, report them on GitHub or in the WhatsApp community.  
-Happy coding! âš¡
+Happy coding! 
 
 ---
 
