@@ -7,7 +7,7 @@
 
 ---
 
-<h1 align="center">âš¡ ðˆðð‚ðŽððð” ð—ðƒ ð•ðŸ âš¡</h1>âš¡ THE NEXT GEN WHATSAPP BOT BY INCONNU BOY âš¡
+<h1 align="center">THE NEXT GEN WHATSAPP BOT BY INCONNU BOY
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-âš™ï¸ Features
+ Features
 
 - QR Code Generator for WhatsApp Pairing
 - Session Sharing System
@@ -45,17 +45,17 @@
 
 ---
 
-ðŸš€ Deploy Easily INCONNU-XD âš¡
+Deploy Easily INCONNU-XD 
 
-ðŸ”— Get Pairing Code ( SESSION ID ðŸ‘‡)
-
----
-
-ðŸ“¦ Fork This Repository
+”— Get Pairing Code ( SESSION ID ðŸ‘‡)
 
 ---
 
-ðŸš€ DEPLOY INCONNU-XD
+“¦ Fork This Repository
+
+---
+
+ DEPLOY INCONNU-XD
 
 <p align="center">
   <a href="https://replit.com/github/inconnuboyxtech/INCONNU-XD">
@@ -83,7 +83,7 @@
 
 ---
 
-ðŸ“¥ DOWNLOAD FILE INCONNU-XD
+ DOWNLOAD FILE INCONNU-XD
 
 <p align="center">
   <a href="https://github.com/inconnuboyxtech/INCONNU-XD/archive/refs/heads/main.zip">
@@ -97,7 +97,7 @@
 
 ---
 
-âœ¨ CONFIGURATION (Modify `.env` File)
+¨ CONFIGURATION (Modify `.env` File)
 
 ```
 SESSION_ID="INCONNU~XD~"
@@ -120,7 +120,7 @@ PREFIX="."
 
 ---
 
-ðŸ“¼ CHANNEL YOUTUBE
+“¼ CHANNEL YOUTUBE
 
 <p align="center">
   <a href="https://youtube.com/@butterfly_16_familly">
@@ -130,7 +130,7 @@ PREFIX="."
 
 ---
 
-ðŸ§¬ Workflows File
+ Workflows File
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R">
@@ -148,7 +148,7 @@ PREFIX="."
 
 ---
 
-âš ï¸ Disclaimer
+ Disclaimer
 
 This project is not affiliated with WhatsApp Inc.  
 Use it at your own risk.  
@@ -157,11 +157,12 @@ The developer is not responsible for any misuse or bans.
 
 ---
 
-ðŸ† Credits & Contributors
+† Credits & Contributors
 
 > <a href="https://github.com/inconnuboyxtech">
   <img alt="INCONNU BOY - OWNER" src="https://img.shields.io/badge/OWNER-âš¡INCONNU%20BOYâš¡-FF0000?style=for-the-badge&logo=github" />
 </a>  
+
 > <a href="https://github.com/inconnuboyxtech">
   <img alt="INCONNU BOY - HELPER" src="https://img.shields.io/badge/HELPER-âš¡INCONNU%20BOYâš¡-00FFC6?style=for-the-badge&logo=github" />
 </a>
@@ -180,7 +181,7 @@ The developer is not responsible for any misuse or bans.
 
 ---
 
-âš¡ Final Note
+ Final Note
 
 If you face any issues, report them on GitHub or in the WhatsApp community.  
 Happy coding! âš¡
