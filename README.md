@@ -50,7 +50,7 @@
 ## 🚀 Deploy Easily INCONNU-XD ⚡
 
 ### 🔗 Get Pairing Code ( SESSION ID 👇)
-[![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://inconnu-xd-session-by-inconnu-boy.onrender.com)
+[![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://inconnu-md-session-by-inconnu-boy-create.onrender.com)
 
 ---
 ## 📦 Fork This Repository
